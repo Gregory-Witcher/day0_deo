@@ -13,7 +13,7 @@ It does one thing:
 
 At exactly 10:43 UTC, once per day, a gentle sound of rain plays.
 For four seconds, the world pauses.
-The world breathes.
+The world breathes in ffor those 4 seconds.
 Together.
 
 No scrolling. No metrics. No ads. No feed. No data collection.
@@ -172,7 +172,6 @@ You don’t even need to do anything—except show up.
 
 Just go to this website:
 https://your-username.github.io/day0-deo
-(Replace this with the real link.)
 
 That’s it.
 
@@ -206,6 +205,3 @@ It works with You.
 
 At 10:43 UTC the world breathes with Me.
 
-⸻
-
-Let me know when you want this dropped into a README.md file for your GitHub repo—or if you’d like me to add a “Toss a Coin” donation link or QR code module directly into the page.
